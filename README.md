@@ -21,3 +21,5 @@ Python | Streamlit | LangChain | Groq LLM | MySQL | SQLAlchemy | Pandas
 
 This project helped me explore Agentic AI + Data Engineering + LLM Applications.
 
+*** Remember that replace MySQL password & GROQ_API_KEY ***
+
