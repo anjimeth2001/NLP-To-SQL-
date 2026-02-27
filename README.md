@@ -6,6 +6,7 @@ From Natural Language → Database Queries using AI!
 I developed an AI Powered Database Assistant that allows users to interact with databases using Natural Language.
 
 ✨ Features:
+
 ✅ Text to SQL Query Generation using LLMs
 
 ✅ MySQL Database Integration
