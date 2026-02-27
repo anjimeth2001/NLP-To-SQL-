@@ -7,9 +7,13 @@ I developed an AI Powered Database Assistant that allows users to interact with 
 
 ✨ Features:
 ✅ Text to SQL Query Generation using LLMs
+
 ✅ MySQL Database Integration
+
 ✅ Interactive Streamlit Dashboard
+
 ✅ Table Management Tools
+
 ✅ Query Result Visualization
 
 🛠 Technologies Used:
